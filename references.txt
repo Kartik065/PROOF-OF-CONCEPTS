@@ -1,0 +1,5 @@
+References for proof of concepts
+
+1-https://www.w3schools.com/
+2-https://fontawesome.com/v5.15/icons/list
+3-https://api.jquery.com/toggle/
